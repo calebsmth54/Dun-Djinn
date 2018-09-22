@@ -1,6 +1,6 @@
 # Dun-Djinn
 
-Source code for a FPS Rogue-lite in the earlier half of 2018. Unfortunately the project lost traction and we ceased development on it.
+Source code for a FPS Rogue-lite I wrote in the earlier half of 2018. Unfortunately the project lost traction and we ceased development on it.
 
 Providing this code for others to learn/steal whatever they want from it.
 
